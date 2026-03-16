@@ -1,25 +1,25 @@
-# CLAUDE.md - Lake Mac Home & Roof Co.
+# CLAUDE.md - JMF Trees Melbourne
 
 ## Business Context
 
-**Business Name:** Lake Mac Home & Roof Co.
-**Phone:** 0468 390 771
-**Email:** lakemachomeroofco@gmail.com
-**Location:** Lake Macquarie, NSW 2284
-**Hours:** Always open - flexible availability
+**Business Name:** JMF Trees Melbourne
+**Phone:** 0457 172 122
+**Email:** jmf.treeservices@gmail.com
+**Location:** Bentleigh East, VIC
+**Service Area:** Bayside, South East Melbourne, and Greater Melbourne (Moorabbin, Bentleigh, and surrounding suburbs)
 
 ### About
-- Small, family-owned home maintenance and handyman business based in the Lake Macquarie area of NSW
-- Positioned as the go-to option for smaller jobs that larger companies won't bother with
-- Fills the gap for everyday homeowners who need reliable, accessible trade help
-- Fully licensed and insured
-- Offers free quotes
+- Solo-operated arboriculture and garden maintenance business run by Jordan
+- Relaunched after a 3-year break, bringing 8 years of experience in tree and hedge work
+- Fully insured and registered with an ABN
+- Free quotes via WhatsApp or message (send photos for a fast quote)
 
 ### Services
-- General Home Maintenance
-- Carpentry
-- Roofing
-- Home Layout Changes
+- Tree removal
+- Hedge trimming
+- Yard cleanups
+- Gutter cleaning
+- Storm damage & reactive works
 
 ---
 
